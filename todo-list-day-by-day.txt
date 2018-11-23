@@ -4,7 +4,7 @@ URL : https://dax-olotl.ovh/stitch/
 Titre de la page : Aucun
 Contenu de la page : Un pavé afin d'expliquer le but du calendrier de l'avant
 Chère famille, chers amis, chers tous.
-Aujourd'hui s
+Aujourd'hui, si tout se passe bien, on est le premier décembre.
 
 (Dire que y'a des clés à gagner)
 
@@ -39,8 +39,31 @@ URL : https://dax-olotl.ovh/flash/
 Image : Speedy Gonzales
 URL : https://dax-olotl.ovh/speedy/
 
-24 - rébus en concaténant tous les mots trouvés jusqu'à maintenant dans un ordre précis donné sur la page
+11 - Codage décalage sur un clavier QWERTY ou AZERTY
+Image : un clavier AZERTY
+URL : https://dax-olotl.ovh/clavier
+Titre : Il pourra vous aider à casser ce message.
+
+19 - Mots croisés
+Image : un croisé
+URL : https://dax-olotl.ovh/croises/
+
+20 - timecode dans une vidéo YouTube (la vidéo doit contenir plus de lettres - qui apparaissent de manière soudaine - qu'il n'y a de timecode)
+Image : URL de la vidéo YouTube sur fond noir
+URL : https://dax-olotl.ovh/<url youtube>/
+Vidéo : j'vais chanter vive le vent + des chants de Noël j'pense
+
+21 - Message caché : dans un film, récupérer une ligne de dialogue en omettant un mot --> mot à trouver (exemple : Titanic "Je suis le Roi du .....") À faire avec un film de Noël, genre le père Noël est une ordure
+Image : des ordures
+URL : https://dax-olotl.ovh/ordures/
+
+22 - un rébus
 Image : Île de ré
 URL : https://dax-olotl.ovh/re/
 Titre de la page : L'île avait soif, donc Ré ...
-Contenu de la page : Liste de nombres de 1 à 24, dans un ordre permettant de résoudre le rébus
+Contenu de la page : un rébus
+
+24 - On mets tous les mots dans le bon ordre
+Image : un phénix
+Titre de la page : Dumbledore le fonda pour contrer Lord Voldemort. A vous de l'utiliser pour trouver d'où vient ce beau message.
+Contenu de la page : Liste de nombres de 1 à 23

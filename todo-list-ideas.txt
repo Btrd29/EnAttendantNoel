@@ -8,7 +8,7 @@
 8 - Message codé avec les lettres de titres de chansons ("Sus à la reine " + initiales KQ + nombre (exemple KQ5 = E --> killEr queen)
 9 - Codage naval (bonhomme drapeau) avec des horloges
 10 - Vigenere avec clé = un mot vu précédemment (genre le telestiche)
-11 - Codage décalage sur un clavier QWERTY ou AZERTY
+11 - DONE
 12 - Trois lettres = une lettre (A=1 - B=2 + F=6 = E=5)
 13 - Message codé avec la table des éléments (un nombre = une combinaison de lettres)
 14 - DONE
@@ -16,9 +16,9 @@
 16 - Message caché dans une image
 17 - Message codé : numérotage des nombres de 0 à N-1, puis création d'une nouvelle chaîne de caractères qui contient tous les caractères impaires d'abord puis tous les caractères paires
 18 - Charade
-19 - Mots croisés
-20 - timecode dans une vidéo YouTube (la vidéo doit contenir plus de lettres - qui apparaissent de manière soudaine - qu'il n'y a dit timecode)
-21 - Message caché : dans un film, récupérer une ligne de dialogue en omettant un mot --> mot à trouver (exemple : Titanic "Je suis le Roi du .....") À faire avec un film de Noël, genre le père Noël est une ordure
-22 - trouver un codage avec des couleurs
+19 - DONE
+20 - DONE
+21 - DONe
+22 - DONE
 23 - Faire un truc avec les constellations, genre une grille de points à relier ou des définitions qui décrivent les constellations
 24 - DONE
