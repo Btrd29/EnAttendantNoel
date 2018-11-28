@@ -23,16 +23,6 @@ body, .tooltip {
 	height: -webkit-fill-available;
 }
 
-@font-face {
-    font-family: fezFont;
-    src: url(../fonts/zuish.ttf);
-}
-
-.fez {
-	font-family: fezFont;
-	font-size: 750;
-}
-
 .hide-this-please, .hide-this-please:hover {
 	text-decoration:none;
 	font-style: italic;

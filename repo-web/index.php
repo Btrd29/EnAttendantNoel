@@ -401,9 +401,23 @@ $authentificated = defined('PASSKEY') && isset($_SESSION['welcome']);
 		</nav>
 
 		<div class="background<?php if(defined('ALTERNATE_BACKGROUND')) { echo ' alternate-background'; } ?>">
-		<?php
-			echo $template;
-		?>
+			<?php
+				echo $template;
+			?>
+
+			<br>
+			<br>
+			<div class="container text-center">
+				<div class="panel panel-info">
+					<div class="panel-body">
+						<p>
+							Pas assez de challenge pour vous ?
+							<br>
+							Allez donc faire un tour <a href="https://gate-remote-access.dax-olotl.ovh/">ici</a> !
+						</p>
+					</div>
+				</div>
+			</div>
 		</div>
 
 		<script src="assets/js/jquery.min.js"></script>

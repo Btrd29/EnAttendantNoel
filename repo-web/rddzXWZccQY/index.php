@@ -2,7 +2,7 @@
 <html lang="en">
 	<head>
 		<meta charset="UTF-8" />
-		<title><?php echo ('Russie'); ?></title>
+		<title><?php echo ('rddzXWZccQY'); ?></title>
 
 		<link rel="shortcut icon" type="image/x-icon" href="../assets/favicon.ico" />
 		<link rel="icon" type="image/png" href="../assets/favicon.png" />
@@ -17,7 +17,7 @@
 		<div>
       <div class="container text-center">
   			<div class="page-header"><h1>Joyeux Nowoul</h1></div>
-  			<p>...surtaxé du ? ? attention cependant...</p>
+  			<p>...surtaxé du ? ? ? attention cependant...</p>
   		</div>
 		</div>
 	</body>

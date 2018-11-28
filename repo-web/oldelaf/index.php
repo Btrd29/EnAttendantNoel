@@ -17,7 +17,7 @@
 		<div>
       <div class="container text-center">
   			<div class="page-header"><h1>Look up to the sky and see</h1></div>
-  			<p>WIRVR</p>
+  			<p>TODO : definition + cacher E X I S T E</p>
   		</div>
 		</div>
 	</body>

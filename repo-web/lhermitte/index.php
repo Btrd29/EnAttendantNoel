@@ -17,7 +17,7 @@
 		<div>
       <div class="container text-center">
   			<div class="page-header"><h1>Pierre et Thérèse n'attendent plus que vous pour commencer</h1></div>
-  			<p></p>
+  			<p>trouver un moment où dans le film ils disent "VOUS"</p>
   		</div>
 		</div>
 	</body>
