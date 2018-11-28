@@ -14,6 +14,15 @@
 		td {
 		    border: 2px solid black;
 		}
+		th {
+			text-align:center;
+			font-weight: bold;
+			font-size: 200%;
+		}
+		table {
+			margin-left:auto;
+    	margin-right:auto;
+		}
 		</style>
 
 	</head>
@@ -33,7 +42,7 @@
 				    <th>6</th>
 				  </tr>
 				  <tr>
-				  	<th style="text-align: right">1</th>
+				  	<th>1</th>
 				    <td style="background-color: red"></td>
 				    <td></td>
 				    <td></td>
@@ -42,7 +51,7 @@
 				    <td></td>
 				  </tr>
 				  <tr>
-				  	<th style="text-align: right">2</th>
+				  	<th>2</th>
 				    <td></td>
 				    <td></td>
 				    <td style="background-color: red"></td>
@@ -51,7 +60,7 @@
 				    <td></td>
 				  </tr>
 				  <tr>
-				  	<th style="text-align: right">3</th>
+				  	<th>3</th>
 				    <td></td>
 				    <td></td>
 				    <td></td>
@@ -60,7 +69,7 @@
 				    <td></td>
 				  </tr>
 				  <tr>
-				  	<th style="text-align: right">4</th>
+				  	<th>4</th>
 				    <td></td>
 				    <td></td>
 				    <td></td>
@@ -69,7 +78,7 @@
 				    <td></td>
 				  </tr>
 				  <tr>
-				  	<th style="text-align: right">5</th>
+				  	<th>5</th>
 				    <td></td>
 				    <td></td>
 				    <td></td>
@@ -78,7 +87,7 @@
 				    <td></td>
 				  </tr>
 				  <tr>
-				  	<th style="text-align: right">6</th>
+				  	<th>6</th>
 				    <td></td>
 				    <td></td>
 				    <td></td>
@@ -89,9 +98,10 @@
 				</table>
 
 				<p>
-				1: Présent acidulé de l'ancien temps.
 				<br>
-				2: Même sans ailes, ils peuvent voler.
+				1: Présent acidulé de l'ancien temps
+				<br>
+				2: Même sans ailes, ils peuvent voler
 				<br>
 				3: Messagers de dieu anglais
 				<br>
@@ -101,7 +111,7 @@
 				<br>
 				6: Serviette belge
 				</p>
-				
+
   		</div>
 		</div>
 	</body>

@@ -17,7 +17,7 @@
 		<div class="background">
       <div class="container text-center">
   			<div class="page-header"><h1>L'île avait soif, donc Ré ...</h1></div>
-  			<img src="re.png">
+  			<img src="re.jpg">
   		</div>
 		</div>
 	</body>
