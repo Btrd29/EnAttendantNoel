@@ -13,8 +13,8 @@
 
 	</head>
 
-	<body>
-		<div class="background">
+	<body class="background">
+		<div>
       <div class="container text-center">
   			<div class="page-header"><h1>Le vent l'emportera</h1></div>
   			<p>

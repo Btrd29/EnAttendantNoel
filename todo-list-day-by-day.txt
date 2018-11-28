@@ -49,13 +49,6 @@ Titre : Elle en possède deux paires et, à reculons, il t'aidera à casser ce m
 Enigme : QUESTION
 
 
-20 - Alphabet de FEZ
-Image : Un fez (le chapeau)
-URL : https://dax-olotl.ovh/fez/
-Titre : The quick brown fox jumps over the lazy dog
-Enigme : PARENTSSE
-
-
 21 - Message codé avec les lettres de titres de chansons ("Sus à la reine " + initiales KQ + nombre (exemple KQ5 = E --> killEr queen)
 Image : queen
 URL : https://dax-olotl.ovh/queen/
@@ -88,6 +81,7 @@ URL : https://dax-olotl.ovh/clavier/
 Titre : J'ai une touche là, nan ?
 Enigme : QUECE
 décalage une lettre vers la droite ; WIRVR
+
 
 16 - Alphabet retourné (A=Z)
 Image : alphabet à l'envers
@@ -138,6 +132,7 @@ L - Paris Alger Tunis
 E - Varsovie Bruxelles Monaco Belgrade Monaco Tunis Athènes
 S - Kiev Varsovie Budapest Chisinau Sofia Sarajevo
 
+
 13 - Charade
 Image : un char
 URL : https://dax-olotl.ovh/char/
@@ -148,14 +143,6 @@ Mon premier fut écrit par le King, puis récemment adapté.
 La famille de mon second vous est apparue il y a 7 jours.
 Mon tout est un verbe à la deuxième personne du pluriel.
 
-4 - Définitions
-Image : Oldelaf
-URL : https://dax-olotl.ovh/oldelaf/
-Titre : Look up to the sky and see
-Enigme : EXISTE
-Faire un truc avec les constellations, genre une grille de points à relier ou des définitions qui décrivent les constellations
-BERENICE -
-
 
 2 - timecode dans une vidéo YouTube (la vidéo doit contenir plus de lettres - qui apparaissent de manière soudaine - qu'il n'y a de timecode)
 Image : rddzXWZccQY sur fond noir
@@ -163,13 +150,6 @@ URL : https://dax-olotl.ovh/rddzXWZccQY/
 Titre : Joyeux Nowoul
 Enigme : PERENOEL
  ...surtaxé du ? ? ? attention cependant...
-
-
-17 - Message caché : dans un film, récupérer une ligne de dialogue en omettant un mot --> mot à trouver (exemple : Titanic "Je suis le Roi du .....") À faire avec un film de Noël, genre le père Noël est une ordure
-Image : Thierry Lhermitte
-URL : https://dax-olotl.ovh/lhermitte/
-Titre : Pierre et Thérèse n'attendent plus que vous pour commencer
-Enigme : VOUS
 
 
 9 - un rébus
@@ -198,3 +178,26 @@ Image : un phénix
 URL : https://dax-olotl.ovh/phenix/
 Titre : Dumbledore le fonda pour contrer Lord Voldemort. A vous de l'utiliser pour me dire d'où vient ce beau message.
 Enigme : 10 3 5 6 23 2 4 12 21 22 11 8 14 9 16 18 7 19 15 20 1 17 13
+
+
+20 - Alphabet de FEZ
+Image : Un fez (le chapeau)
+URL : https://dax-olotl.ovh/fez/
+Titre : The quick brown fox jumps over the lazy dog
+Enigme : PARENTSSE
+
+
+4 - Définitions
+Image : Oldelaf
+URL : https://dax-olotl.ovh/oldelaf/
+Titre : Look up to the sky and see
+Enigme : EXISTE
+Faire un truc avec les constellations, genre une grille de points à relier ou des définitions qui décrivent les constellations
+BERENICE -
+
+
+17 - Message caché : dans un film, récupérer une ligne de dialogue en omettant un mot --> mot à trouver (exemple : Titanic "Je suis le Roi du .....") À faire avec un film de Noël, genre le père Noël est une ordure
+Image : Thierry Lhermitte
+URL : https://dax-olotl.ovh/lhermitte/
+Titre : Pierre et Thérèse n'attendent plus que vous pour commencer
+Enigme : VOUS

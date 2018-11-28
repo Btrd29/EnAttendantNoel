@@ -358,7 +358,7 @@ else if (isset($_GET['day'])) {
 		$template = Advent::getDayHtml($day);
 	}
 	else {
-		$template_title = 'Be patient!';
+		$template_title = 'Soit patient !';
 		$template = Advent::bePatient($day);
 	}
 }

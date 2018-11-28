@@ -13,8 +13,8 @@
 
 	</head>
 
-	<body>
-		<div class="background">
+	<body class="background">
+		<div>
       <div class="container text-center">
   			<div class="page-header"><h1>Elle ferme la marche aux côtés du chien de Lilo</h1></div>
   			<p>ESFXTHCI</p>

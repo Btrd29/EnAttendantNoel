@@ -2,7 +2,7 @@
 <html lang="en">
 	<head>
 		<meta charset="UTF-8" />
-		<title><?php echo ('Russie'); ?></title>
+		<title><?php echo ('Phénix'); ?></title>
 
 		<link rel="shortcut icon" type="image/x-icon" href="../assets/favicon.ico" />
 		<link rel="icon" type="image/png" href="../assets/favicon.png" />
@@ -16,8 +16,8 @@
 	<body class="background">
 		<div>
       <div class="container text-center">
-  			<div class="page-header"><h1>Joyeux Nowoul</h1></div>
-  			<p>...surtaxé du ? ? attention cependant...</p>
+  			<div class="page-header"><h1>Dumbledore le fonda pour contrer Lord Voldemort<br>À vous de l'utiliser pour me dire d'où vient ce beau message</h1></div>
+  			<p>10 3 5 6 23 2 4 12 21 22 11 8 14 9 16 18 7 19 15 20 1 17 13</p>
   		</div>
 		</div>
 	</body>

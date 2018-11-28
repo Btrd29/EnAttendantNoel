@@ -13,8 +13,8 @@
 
 	</head>
 
-	<body>
-		<div class="background">
+	<body class="background">
+		<div>
       <div class="container text-center">
   			<div class="page-header"><h1>Allez hop, on y va, c'est parti pour l'aventure !</h1></div>
   			<p>Tout d'abord, bienvenue à tous et à toutes, j'espère que vous aimez réfléchir car pour ce mois de Décembre, je vous ai préparé tout plein d'énigmes en vrac

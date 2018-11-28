@@ -13,8 +13,8 @@
 
 	</head>
 
-	<body>
-		<div class="background">
+	<body class="background">
+		<div>
       <div class="container text-center">
   			<div class="page-header"><h1>À vos pinceaux !</h1></div>
   			<img src="couleur.png">

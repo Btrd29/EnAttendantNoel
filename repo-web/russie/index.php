@@ -13,8 +13,8 @@
 
 	</head>
 
-	<body>
-		<div class="background">
+	<body class="background">
+		<div>
       <div class="container text-center">
   			<div class="page-header"><h1>Ce n'est pas un artiste, mais son tableau pourra vous aider</h1></div>
   			<p>3 68 29 13 38</p>
