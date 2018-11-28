@@ -2,7 +2,7 @@
 <html lang="en">
 	<head>
 		<meta charset="UTF-8" />
-		<title><?php echo ('Speedy'); ?></title>
+		<title><?php echo ('Rose'); ?></title>
 
 		<link rel="shortcut icon" type="image/x-icon" href="../assets/favicon.ico" />
 		<link rel="icon" type="image/png" href="../assets/favicon.png" />
@@ -16,10 +16,14 @@
 	<body>
 		<div class="background">
       <div class="container text-center">
-  			<div class="page-header"><h1>Ariba, ariba !</h1></div>
-				<audio controls>
-					<source src="speedy.mp3" type="audio/mp3">
-				</audio>
+  			<div class="page-header"><h1>Le vent l'emportera</h1></div>
+  			<p>
+				Paris Alger Tunis
+				<br>
+				Varsovie Bruxelles Monaco Belgrade Monaco Tunis Athènes
+				<br>
+				Kiev Varsovie Budapest Chisinau Sofia Sarajevo
+				</p>
   		</div>
 		</div>
 	</body>

@@ -17,7 +17,7 @@
 		<div class="background">
       <div class="container text-center">
   			<div class="page-header"><h1>Best indie game ever.</h1></div>
-  			<p class="fez">UNE IMAGE DANS CETTE POLICE LA</p>
+  			<p class="fez">PARENTSSE</p>
   		</div>
 		</div>
 	</body>

@@ -1,69 +1,200 @@
 1 - Acrostiche + Téléstiche combiné
 Image : Stitch
 URL : https://dax-olotl.ovh/stitch/
-Titre de la page : Aucun
-Contenu de la page : Un pavé afin d'expliquer le but du calendrier de l'avant
-Chère famille, chers amis, chers tous.
-Aujourd'hui, si tout se passe bien, on est le premier décembre.
+Titre : Allez hop, on y va, c'est parti pour l'aventure !
+Enigme : Un pavé afin d'expliquer le but du calendrier de l'avant
 
-(Dire que y'a des clés à gagner)
+Tout d'abord, bienvenue à tous et à toutes, j'espère que vous aimez réfléchir car pour ce mois de Décembre, je vous ai préparé tout plein d'énigmes en vraC
+Restez calme toutefois, tout se passera bien car avec un peu de logique et quelques notes, les résoudre ne sera qu'un jeu simple et puériL
+Où et comment participer me demandez vous ? Et bien rendez-vous chaque jour sur la nouvelle URL cachée pour résoudre une nouvelle énigme et récolter un nouvel indicE
+Mémorisez tout ce qui vous semble suspect, et une fois au bout de ce calendrier, contactez moi par MP avec votre ultime réponse, votre ultime bafouille. Et n'oubliez pas :
+Peu importe la difficulté, n'abandonnez pas, faites appel à vos amis, votre famille, car au bout de ce calendrier vous attend un cadeau au top du toP
+Et oui, des jeux Steam (dans la limite des stocks disponibles bien sûr hein), rien que pour vous, si vous réussissez à percer les énigmes mises en place par mon esprit de mongolO
+Normalement maintenant c'est l'endroit où je vous remercie tous de participer parce que ça fait trop plaisir mais j'suis pas trop doué avec ces histoires donc j'vais me contenter d'un JOYEUX NOEL
+Tout plein de bisous à vous tous, bonne chance, bonne chasse, et puisse le sort vous être favorablE
 
-2 - César
+
+10 - César
 Image : Rome
 URL : https://dax-olotl.ovh/rome/
-Titre de la page : Veni, vidi, vici
-Contenu de la page :
+Titre : Veni, vidi, vici
+Enigme : JENE
 
-4 - 3310
+
+3 - Morse
+Image : Télégraphe
+URL : https://dax-olotl.ovh/telegraphe/
+Titre : Bip bip boup
+Enigme : COMPRENDS
+
+
+5 - 3310
 Image : Brique
 URL : https://dax-olotl.ovh/brique/
-Titre de la page : Only 90's kids will understand.
-Contenu de la page :
+Titre : Only 90's kids will understand
+Enigme : MEMEPAS
 
-6 - Alphabet codé par PI en partant de Z
+
+6 - A 1 Z 26
+Image : Alphabet
+URL : https://dax-olotl.ovh/alphabet/
+Titre : Maintenant que tu connais ton alphabet, la prochaine fois chante le avec moi
+Enigme : VOTRE
+
+
+23 - Alphabet codé par PI en partant de Z
 Image : Une vache
 URL : https://dax-olotl.ovh/vache/
-Titre de la page : Elle en possède deux paires et, à reculons, il t'aidera à casser ce message.
-Contenu de la page :
+Titre : Elle en possède deux paires et, à reculons, il t'aidera à casser ce message
+Enigme : QUESTION
 
-7 - Alphabet de FEZ
+
+20 - Alphabet de FEZ
 Image : Un fez (le chapeau)
 URL : https://dax-olotl.ovh/fez/
-Contenu de la page :
+Titre : The quick brown fox jumps over the lazy dog
+Enigme : PARENTSSE
 
-14 - Message vocal ralenti
+
+21 - Message codé avec les lettres de titres de chansons ("Sus à la reine " + initiales KQ + nombre (exemple KQ5 = E --> killEr queen)
+Image : queen
+URL : https://dax-olotl.ovh/queen/
+Titre : Sus à la reine !
+Enigme : QUUN
+Q - KQ 7
+U - TSMGO 9
+U - WWRY 13
+N - UP 2
+
+
+22 - Codage naval (bonhomme drapeau) avec des horloges
+Image : mer
+URL : https://dax-olotl.ovh/mer/
+Titre : Là-bas les horloges ne serviront pas, mieux vaut utiliser des drapeaux
+Enigme : JOUR
+
+
+12 - Vigenere
+Image : Blaise Vigenere
+URL : https://dax-olotl.ovh/vigenere/
+Titre : Elle ferme la marche aux côtés du chien de Lilo.
+Enigme : PEUTETRE
+cle = POLE ; ESFXTHCI
+
+
+14 - Codage décalage sur un clavier QWERTY
+Image : un clavier QWERTY
+URL : https://dax-olotl.ovh/clavier/
+Titre : J'ai une touche là, nan ?
+Enigme : QUECE
+décalage une lettre vers la droite ; WIRVR
+
+16 - Alphabet retourné (A=Z)
+Image : alphabet à l'envers
+URL : https://dax-olotl.ovh/tebahpla/
+Titre : Un indice est-il vraiment nécessaire ?
+Enigme : PAS ; KZH
+
+
+18 - Message codé avec la table des éléments (un nombre = une combinaison de lettres)
+Image : drapeau Russe
+URL : https://dax-olotl.ovh/russie/
+Titre : Ce n'est pas un artiste, mais son tableau pourra vous aider
+Enigme : LECAS
+L - Lithium - 3
+E - Erbium - 68
+C - Cuivre - 29
+A - Aluminium - 13
+S - Strontium - 38
+
+7 - Message vocal ralenti
 Image : Flash (dans Zootopia)
 URL : https://dax-olotl.ovh/flash/
+Titre : Savior of the universe !
+Enigme : MAIS
 
-15 - Message vocal accéléré
+
+19 - Message vocal accéléré
 Image : Speedy Gonzales
 URL : https://dax-olotl.ovh/speedy/
+Titre : Ariba, ariba !
+Enigme : PARFOIS
 
-11 - Codage décalage sur un clavier QWERTY ou AZERTY
-Image : un clavier AZERTY
-URL : https://dax-olotl.ovh/clavier
-Titre : Il pourra vous aider à casser ce message.
 
-19 - Mots croisés
-Image : un croisé
-URL : https://dax-olotl.ovh/croises/
+8 - Message caché dans une image (dessin à colorier)
+Image : Couleur
+URL : https://dax-olotl.ovh/couleur/
+Titre : A vos pinceaux !
+Enigme : DIT
+calcul + couleurs = dit
 
-20 - timecode dans une vidéo YouTube (la vidéo doit contenir plus de lettres - qui apparaissent de manière soudaine - qu'il n'y a de timecode)
-Image : URL de la vidéo YouTube sur fond noir
-URL : https://dax-olotl.ovh/<url youtube>/
-Vidéo : j'vais chanter vive le vent + des chants de Noël j'pense
 
-21 - Message caché : dans un film, récupérer une ligne de dialogue en omettant un mot --> mot à trouver (exemple : Titanic "Je suis le Roi du .....") À faire avec un film de Noël, genre le père Noël est une ordure
-Image : des ordures
-URL : https://dax-olotl.ovh/ordures/
+15 - Rose des vents donne des directions pour former un mot à partir de coordonnées GPS
+Image : rose
+URL : https://dax-olotl.ovh/rose/
+Titre : Le vent l'emportera
+Enigme : LES
+L - Paris Alger Tunis
+E - Varsovie Bruxelles Monaco Belgrade Monaco Tunis Athènes
+S - Kiev Varsovie Budapest Chisinau Sofia Sarajevo
 
-22 - un rébus
+13 - Charade
+Image : un char
+URL : https://dax-olotl.ovh/char/
+Titre : Tout seul, c'est nul. A deux, c'est mieux. Char-à-deux. (J'aime l'humour)
+Enigme : SAVEZ
+ça (film) + V = savez
+Mon premier fut écrit par le King, puis récemment adapté.
+La famille de mon second vous est apparue il y a 7 jours.
+Mon tout est un verbe à la deuxième personne du pluriel.
+
+4 - Définitions
+Image : Oldelaf
+URL : https://dax-olotl.ovh/oldelaf/
+Titre : Look up to the sky and see
+Enigme : EXISTE
+Faire un truc avec les constellations, genre une grille de points à relier ou des définitions qui décrivent les constellations
+BERENICE -
+
+
+2 - timecode dans une vidéo YouTube (la vidéo doit contenir plus de lettres - qui apparaissent de manière soudaine - qu'il n'y a de timecode)
+Image : rddzXWZccQY sur fond noir
+URL : https://dax-olotl.ovh/rddzXWZccQY/
+Titre : Joyeux Nowoul
+Enigme : PERENOEL
+ ...surtaxé du ? ? ? attention cependant...
+
+
+17 - Message caché : dans un film, récupérer une ligne de dialogue en omettant un mot --> mot à trouver (exemple : Titanic "Je suis le Roi du .....") À faire avec un film de Noël, genre le père Noël est une ordure
+Image : Thierry Lhermitte
+URL : https://dax-olotl.ovh/lhermitte/
+Titre : Pierre et Thérèse n'attendent plus que vous pour commencer
+Enigme : VOUS
+
+
+9 - un rébus
 Image : Île de ré
 URL : https://dax-olotl.ovh/re/
-Titre de la page : L'île avait soif, donc Ré ...
-Contenu de la page : un rébus
+Titre : L'île avait soif, donc Ré ...
+Enigme : NETAIT
+nez - taie (d'oreiller) ou thé
+
+
+11 - Carré magique
+Image : Carré
+URL : https://dax-olotl.ovh/carre/
+Titre : Abracadabra
+Enigme : ONMA
+Orange - présent acidulé de l'ancien temps.
+Rennes - même sans ailes, ils peuvent voler.
+Angels - messagers de dieu anglais
+Nnemau - poisson clown mal écrit
+Gelati - crème glacée italienne
+Essuie - serviette belge
+
 
 24 - On mets tous les mots dans le bon ordre
 Image : un phénix
-Titre de la page : Dumbledore le fonda pour contrer Lord Voldemort. A vous de l'utiliser pour trouver d'où vient ce beau message.
-Contenu de la page : Liste de nombres de 1 à 23
+URL : https://dax-olotl.ovh/phenix/
+Titre : Dumbledore le fonda pour contrer Lord Voldemort. A vous de l'utiliser pour me dire d'où vient ce beau message.
+Enigme : 10 3 5 6 23 2 4 12 21 22 11 8 14 9 16 18 7 19 15 20 1 17 13

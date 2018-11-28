@@ -2,7 +2,7 @@
 <html lang="en">
 	<head>
 		<meta charset="UTF-8" />
-		<title><?php echo ('Speedy'); ?></title>
+		<title><?php echo ('Télégraphe'); ?></title>
 
 		<link rel="shortcut icon" type="image/x-icon" href="../assets/favicon.ico" />
 		<link rel="icon" type="image/png" href="../assets/favicon.png" />
@@ -16,9 +16,9 @@
 	<body>
 		<div class="background">
       <div class="container text-center">
-  			<div class="page-header"><h1>Ariba, ariba !</h1></div>
+  			<div class="page-header"><h1>Bip bip boup</h1></div>
 				<audio controls>
-					<source src="speedy.mp3" type="audio/mp3">
+					<source src="telegraphe.wav" type="audio/wav">
 				</audio>
   		</div>
 		</div>

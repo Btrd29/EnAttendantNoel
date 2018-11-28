@@ -2,7 +2,7 @@
 <html lang="en">
 	<head>
 		<meta charset="UTF-8" />
-		<title><?php echo ('Speedy'); ?></title>
+		<title><?php echo ('Clavier'); ?></title>
 
 		<link rel="shortcut icon" type="image/x-icon" href="../assets/favicon.ico" />
 		<link rel="icon" type="image/png" href="../assets/favicon.png" />
@@ -16,10 +16,8 @@
 	<body>
 		<div class="background">
       <div class="container text-center">
-  			<div class="page-header"><h1>Ariba, ariba !</h1></div>
-				<audio controls>
-					<source src="speedy.mp3" type="audio/mp3">
-				</audio>
+  			<div class="page-header"><h1>J'ai une touche là, nan ?</h1></div>
+  			<p>WIRVR</p>
   		</div>
 		</div>
 	</body>

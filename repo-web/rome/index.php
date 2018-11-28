@@ -16,8 +16,8 @@
 	<body>
 		<div class="background">
       <div class="container text-center">
-  			<div class="page-header"><h1>Veni, vidi, vici.</h1></div>
-  			<p>du césar 10 ici</p>
+  			<div class="page-header"><h1>Veni, vidi, vici</h1></div>
+  			<p>TOXO</p>
   		</div>
 		</div>
 	</body>

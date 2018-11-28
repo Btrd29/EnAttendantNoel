@@ -17,7 +17,9 @@
 		<div class="background">
       <div class="container text-center">
   			<div class="page-header"><h1>Savior of the Universe !</h1></div>
-  			<p>ici un mp3 lent</p>
+				<audio controls>
+					<source src="flash.mp3" type="audio/mp3">
+				</audio>
   		</div>
 		</div>
 	</body>

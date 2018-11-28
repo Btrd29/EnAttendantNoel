@@ -2,7 +2,7 @@
 <html lang="en">
 	<head>
 		<meta charset="UTF-8" />
-		<title><?php echo ('Speedy'); ?></title>
+		<title><?php echo ('Char'); ?></title>
 
 		<link rel="shortcut icon" type="image/x-icon" href="../assets/favicon.ico" />
 		<link rel="icon" type="image/png" href="../assets/favicon.png" />
@@ -16,10 +16,14 @@
 	<body>
 		<div class="background">
       <div class="container text-center">
-  			<div class="page-header"><h1>Ariba, ariba !</h1></div>
-				<audio controls>
-					<source src="speedy.mp3" type="audio/mp3">
-				</audio>
+  			<div class="page-header"><h1>Tout seul, c'est nul. À deux, c'est mieux. Char-à-deux. (J'aime l'humour)</h1></div>
+  			<p>
+					Mon premier fut écrit par le King, puis récemment adapté.
+					<br>
+					La famille de mon second vous est apparue il y a 7 jours.
+					<br>
+					Mon tout est un verbe à la deuxième personne du pluriel.
+				</p>
   		</div>
 		</div>
 	</body>

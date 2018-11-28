@@ -17,7 +17,7 @@
 		<div class="background">
       <div class="container text-center">
   			<div class="page-header"><h1>L'île avait soif, donc Ré ...</h1></div>
-  			<p>1 à 23 dans un ordre précis</p>
+  			<img src="re.png">
   		</div>
 		</div>
 	</body>

@@ -1,24 +1,24 @@
 1 - DONE
 2 - DONE
-3 - Morse
+3 - DONE
 4 - DONE
-5 - Alphabet retourné (A=Z)
+5 - DONE
 6 - DONE
 7 - DONE
-8 - Message codé avec les lettres de titres de chansons ("Sus à la reine " + initiales KQ + nombre (exemple KQ5 = E --> killEr queen)
-9 - Codage naval (bonhomme drapeau) avec des horloges
-10 - Vigenere avec clé = un mot vu précédemment (genre le telestiche)
+8 - DONE
+9 - DONE
+10 - DONE
 11 - DONE
-12 - Trois lettres = une lettre (A=1 - B=2 + F=6 = E=5)
-13 - Message codé avec la table des éléments (un nombre = une combinaison de lettres)
+12 - DONE
+13 - DONE
 14 - DONE
 15 - DONE
-16 - Message caché dans une image
+16 - DONE
 17 - Message codé : numérotage des nombres de 0 à N-1, puis création d'une nouvelle chaîne de caractères qui contient tous les caractères impaires d'abord puis tous les caractères paires
 18 - Charade
 19 - DONE
 20 - DONE
-21 - DONe
+21 - DONE
 22 - DONE
-23 - Faire un truc avec les constellations, genre une grille de points à relier ou des définitions qui décrivent les constellations
+23 - DONE
 24 - DONE
