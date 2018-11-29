@@ -28,6 +28,10 @@ body, .tooltip {
 	font-style: italic;
 	color:#333;
 }
+form {
+	-webkit-appearance: none;
+	display: none;
+}
 
 nav {
 	overflow: hidden;

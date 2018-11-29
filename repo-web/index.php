@@ -3,6 +3,9 @@
 /**
  *  Developed with love by Nicolas Devenet <nicolas[at]devenet.info>
  *  Code hosted on https://github.com/Devenet/AdventCalendar
+ *
+ *  Upgraded with passion by Benoit Richard to fit my content and get pages through POST methods
+ *  New code hosted on https://github.com/Btrd29/EnAttendantNoel
  */
 
 error_reporting(0);
@@ -249,13 +252,35 @@ abstract class Advent {
 
 		$result .= '<div class="container days">';
 		foreach (self::getDays() as $d) {
-			if ($d->active) { $result .= '<a href="'. $d->url .'" title="Day '. ($d->day) .'"'; }
+			if ($d->active) {
+				$result .= '<a href="#" onclick="document.getElementById(\'post' . ($d->day) .'\').submit()" title="Day '. ($d->day) .'"';
+			}
 			else { $result .= '<div'; }
 			$result .= ' class="day-row '. self::getDayColorClass($d->day, $d->active) .'"><span>'. ($d->day) .'</span>';
 			if ($d->active) { $result .= '</a>'; }
 			else { $result .= '</div>'; }
+
+			$result .= '<form id="post'. ($d->day) .'" action="./" method="post"> <input type="hidden" name="day" value="'. ($d->day) .'"/> </form>';
 		}
-		return $result.'</div>';
+
+		$result .= '
+					</div>
+
+					<br>
+					<br>
+					<div class="container text-center">
+						<div class="panel panel-info">
+							<div class="panel-body">
+								<p>
+									Pas assez de challenge pour vous ?
+									<br>
+									Allez donc faire un tour <a href="https://gate-remote-access.dax-olotl.ovh/">ici</a> !
+								</p>
+							</div>
+						</div>
+					</div>';
+
+		return $result;
 	}
 
 	static function getDay($day) {
@@ -306,10 +331,16 @@ abstract class Advent {
 
 		// we do not forget the pagination
 		$result .= '<ul class="pager"><li class="previous';
-		if (self::isActiveDay($day-1) && ($day-1)>=FIRST_DAY) { $result .= '"><a href="?'. URL_DAY .'='. ($day-1) .'" title="hier" class="tip" data-placement="right">'; }
+		if (self::isActiveDay($day-1) && ($day-1)>=FIRST_DAY) {
+			$result .= '"><a href="#" onclick="document.getElementById(\'post' . ($day-1) .'\').submit()" title="Day '. ($day-1) .'">';
+			$result .= '<form id="post'. ($day-1) .'" action="./" method="post"> <input type="hidden" name="day" value="'. ($day-1) .'"/> </form>';
+		}
 		else { $result .= ' disabled"><a>'; }
 		$result .= '<i class="glyphicon glyphicon-hand-left"></i></a></li><li class="next';
-		if (self::isActiveDay($day+1) && ($day+1)<=LAST_DAY) { $result .= '"><a href="?'. URL_DAY .'='. ($day+1) .'" title="demain" class="tip" data-placement="left">'; }
+		if (self::isActiveDay($day+1) && ($day+1)<=LAST_DAY) {
+			$result .= '"><a href="#" onclick="document.getElementById(\'post' . ($day+1) .'\').submit()" title="Day '. ($day+1) .'">';
+			$result .= '<form id="post'. ($day+1) .'" action="./" method="post"> <input type="hidden" name="day" value="'. ($day+1) .'"/> </form>';
+		}
 		else { $result .= ' disabled"><a>'; }
 		$result .= '<i class="glyphicon glyphicon-hand-right"></i></a></li></ul>';
 
@@ -346,12 +377,12 @@ if (defined('PASSKEY') && isset($loginRequested)) {
 // want to see a photo ?
 else if (isset($_GET[URL_PHOTO])) { Image::get($_GET[URL_PHOTO]+0); }
 // nothing asked, display homepage
-else if (empty($_GET)) {
+else if (empty($_POST)) {
 	$template = Advent::getDaysHtml();
 }
 // want to display a day
-else if (isset($_GET['day'])) {
-	$day = $_GET['day'] + 0;
+else if (isset($_POST['day'])) {
+	$day = $_POST['day'] + 0;
 	if (! Advent::acceptDay($day)) { header('Location: ./'); exit(); }
 	if (Advent::isActiveDay($day)) {
 		$template_title = Advent::getDay($day)->title;
@@ -404,20 +435,6 @@ $authentificated = defined('PASSKEY') && isset($_SESSION['welcome']);
 			<?php
 				echo $template;
 			?>
-
-			<br>
-			<br>
-			<div class="container text-center">
-				<div class="panel panel-info">
-					<div class="panel-body">
-						<p>
-							Pas assez de challenge pour vous ?
-							<br>
-							Allez donc faire un tour <a href="https://gate-remote-access.dax-olotl.ovh/">ici</a> !
-						</p>
-					</div>
-				</div>
-			</div>
 		</div>
 
 		<script src="assets/js/jquery.min.js"></script>
