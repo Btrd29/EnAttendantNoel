@@ -25,9 +25,9 @@
 				<br>
 				Mémorisez tout ce qui vous semble suspect, et une fois au bout de ce calendrier, contactez moi par MP avec votre ultime réponse, votre ultime bafouille. Et n'oubliez pas :
 				<br>
-				Peu importe la difficulté, n'abandonnez pas, faites appel à vos amis, votre famille, car au bout de ce calendrier vous attend un cadeau au top du top
+				Peu importe la difficulté, n'abandonnez pas, faites appel à vos amis, votre famille, car au bout de ce calendrier vous attend un petit cadeau au top du top
 				<br>
-				Et oui, des jeux Steam (dans la limite des stocks disponibles bien sûr hein), rien que pour vous, si vous réussissez à percer les énigmes mises en place par mon esprit de mongolo
+				Et oui, j'ai en stock une vingtaine de clés CDs à vous faire gagner (dans la limite des stocks disponibles bien sûr hein), si vous réussissez à percer les énigmes mises en place par mon esprit de mongolo
 				<br>
 				Normalement maintenant c'est l'endroit où je vous remercie tous de participer parce que ça fait trop plaisir mais j'suis pas trop doué avec ces histoires donc j'vais me contenter d'un JOYEUX NOEL
 				<br>

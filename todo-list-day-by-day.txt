@@ -190,11 +190,15 @@ Enigme : PARENTSSE
 4 - Définitions
 Image : Oldelaf
 URL : https://dax-olotl.ovh/oldelaf/
-Titre : Look up to the sky and see
+Titre : Compliquons les choses : et si Olivier D. s'appelait Bob ?
 Enigme : EXISTE
 Faire un truc avec les constellations, genre une grille de points à relier ou des définitions qui décrivent les constellations
-BERENICE -
-
+  ASTERION      - Un des deux compagnons de mon sixième
+  ALEXANDRE     - Quatrième enfant de mon cinquième
+BERENICE        - Bob aurait aimé qu'elle se fasse une pédicure, mais là-haut elle privilégia sa tignasse
+   ARSINOE      - Belle-mère de mon troisième
+    PTOLEMEE    - Conjoint, frère ou rejeton de mon quatrième
+BOUVIER         - Plus grand que mon troisième, ils sont aussi voisins
 
 17 - Message caché : dans un film, récupérer une ligne de dialogue en omettant un mot --> mot à trouver (exemple : Titanic "Je suis le Roi du .....") À faire avec un film de Noël, genre le père Noël est une ordure
 Image : Thierry Lhermitte

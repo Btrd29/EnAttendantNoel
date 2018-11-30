@@ -309,7 +309,8 @@ abstract class Advent {
 		$text = $d->text;
 
 		// set the day number block
-		$result .= '<a href="./?'. URL_DAY.'='. $day .'" class="day-row '. self::getDayColorClass($day, TRUE) .'"><span>'. $day .'</span></a>';
+		$result .= '<a href="#" onclick="document.getElementById(\'post' . ($day) .'\').submit()" class="day-row '. self::getDayColorClass($day, TRUE) .'"><span>'. $day .'</span></a>';
+		$result .= '<form id="post'. ($day) .'" action="./" method="post"> <input type="hidden" name="day" value="'. ($day) .'"/> </form>';
 		// set the title
 		$result .= '<h1><span>';
 		if (!empty($title)) { $result .= $title; }

@@ -16,7 +16,7 @@
 	<body class="background">
 		<div>
       <div class="container text-center">
-  			<div class="page-header"><h1>Elle ferme la marche aux côtés du chien de Lilo</h1></div>
+  			<div class="page-header"><h1>Aux côtés du chien bleu, elle ferme la marche<br>Ici, elle vous guidera</h1></div>
   			<p>ESFXTHCI</p>
   		</div>
 		</div>

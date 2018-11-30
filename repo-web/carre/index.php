@@ -24,7 +24,6 @@
     	margin-right:auto;
 		}
 		</style>
-
 	</head>
 
 	<body>
@@ -105,7 +104,7 @@
 				<br>
 				3: Messagers de dieu anglais
 				<br>
-				4: Poisson clown mal écrit
+				4: Poisson clown mal orthographié
 				<br>
 				5: Crème glacée italienne
 				<br>
