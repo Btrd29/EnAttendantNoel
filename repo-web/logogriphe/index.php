@@ -28,7 +28,7 @@
 					<br>
 					Dans ma tête, toujours, j'incarne la passion,
 					<br>
-					Sans ma queue, je représente fertilité et printemps.
+					Sans ma queue, j'évoque fertilité et printemps.
 				</p>
   		</div>
 		</div>

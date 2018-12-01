@@ -20,7 +20,7 @@
 					<h1>
 						Dumbledore le fonda pour contrer Lord Voldemort.
 						<br>
-						À vous de l'utiliser pour me dire d'où vient ce beau message.
+						À vous de l'utiliser pour me donner l'origine de ce beau message.
 					</h1>
 				</div>
 				<p>
