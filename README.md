@@ -18,6 +18,7 @@ Son repo original se trouve juste ici : https://github.com/Devenet/AdventCalenda
 Liste des liens :
  - 1: https://dax-olotl.ovh/stitch/
  - 2: https://dax-olotl.ovh/rddzXWZccQY/
+ - 2bis: https://dax-olotl.ovh/babar/
  - 3: https://dax-olotl.ovh/telegraphe/
  - 4: https://dax-olotl.ovh/oldelaf/
  - 5: https://dax-olotl.ovh/brique/
@@ -32,7 +33,7 @@ Liste des liens :
  - 14: https://dax-olotl.ovh/clavier/
  - 15: https://dax-olotl.ovh/rose/
  - 16: https://dax-olotl.ovh/tebahpla/
- - 17: https://dax-olotl.ovh/lhermitte/
+ - 17: https://dax-olotl.ovh/logogriphe/
  - 18: https://dax-olotl.ovh/russie/
  - 19: https://dax-olotl.ovh/speedy/
  - 20: https://dax-olotl.ovh/fez/
