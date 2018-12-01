@@ -16,7 +16,11 @@
 	<body class="background">
 		<div>
       <div class="container text-center">
-  			<div class="page-header"><h1>Bien essayé, mais c'est raté !</h1></div>
+  			<div class="page-header">
+					<h1>
+						Bien essayé, mais c'est raté !
+					</h1>
+				</div>
   			<p>
 					Ce serait quand même bête de s'être trompé de site hein...
 					<br>

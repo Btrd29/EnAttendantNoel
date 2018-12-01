@@ -16,14 +16,18 @@
 	<body class="background">
 		<div>
       <div class="container text-center">
-  			<div class="page-header"><h1>Sus à la reine !</h1></div>
+  			<div class="page-header">
+					<h1>
+						Sus à la reine !
+					</h1>
+				</div>
   			<p>
 					KQ 7
-				<br>
+					<br>
 					TSMGO 9
-				<br>
+					<br>
 					WWRY 13
-				<br>
+					<br>
 					UP 2
 				</p>
   		</div>

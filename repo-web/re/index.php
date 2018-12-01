@@ -16,7 +16,11 @@
 	<body class="background">
 		<div>
       <div class="container text-center">
-  			<div class="page-header"><h1>L'île avait soif, donc Ré ...</h1></div>
+  			<div class="page-header">
+					<h1>
+						L'île avait soif, donc Ré ...
+					</h1>
+				</div>
   			<img src="re.jpg">
   		</div>
 		</div>

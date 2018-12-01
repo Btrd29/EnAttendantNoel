@@ -16,7 +16,11 @@
 	<body class="background">
 		<div>
       <div class="container text-center">
-  			<div class="page-header"><h1>Ariba, ariba !</h1></div>
+  			<div class="page-header">
+					<h1>
+						Ariba, ariba !
+					</h1>
+				</div>
 				<audio controls>
 					<source src="speedy.mp3" type="audio/mp3">
 				</audio>

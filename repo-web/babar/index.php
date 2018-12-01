@@ -16,8 +16,14 @@
 	<body class="background">
 		<div>
       <div class="container text-center">
-  			<div class="page-header"><h1>Joyeux Nowoul</h1></div>
-  			<p>...surtaxé du ? ? ? attention cependant...</p>
+  			<div class="page-header">
+					<h1>
+						Joyeux Nowoul !
+					</h1>
+				</div>
+  			<p>
+					...surtaxé du ? ? ? attention cependant...
+				</p>
   		</div>
 		</div>
 	</body>

@@ -16,7 +16,13 @@
 	<body class="background">
 		<div>
       <div class="container text-center">
-  			<div class="page-header"><h1>Tout seul, c'est nul. À deux, c'est mieux. Char-à-deux.<br>(J'aime l'humour)</h1></div>
+  			<div class="page-header">
+					<h1>
+						Tout seul, c'est nul. À deux, c'est mieux. Char-à-deux.
+						<br>
+						(J'aime l'humour)
+					</h1>
+				</div>
   			<p>
 					Mon premier fut écrit par le King, puis récemment adapté.
 					<br>

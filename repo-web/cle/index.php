@@ -16,8 +16,16 @@
 	<body class="background">
 		<div>
       <div class="container text-center">
-  			<div class="page-header"><h1>Aux côtés du chien bleu, elle ferme la marche<br>Ici, elle vous guidera</h1></div>
-  			<p>ESFXTHCI</p>
+  			<div class="page-header">
+					<h1>
+						Aux côtés du chien bleu, elle ferme la marche,
+						<br>
+						Ici, elle vous guidera.
+					</h1>
+				</div>
+  			<p>
+					ESFXTHCI
+				</p>
   		</div>
 		</div>
 	</body>

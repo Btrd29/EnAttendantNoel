@@ -16,7 +16,11 @@
 	<body class="background">
 		<div>
       <div class="container text-center">
-  			<div class="page-header"><h1>Best indie game ever</h1></div>
+  			<div class="page-header">
+					<h1>
+						Best indie game ever !
+					</h1>
+				</div>
 				<img src="fez.png">
   		</div>
 		</div>

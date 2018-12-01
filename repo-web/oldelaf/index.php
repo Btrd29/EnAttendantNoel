@@ -29,7 +29,11 @@
 	<body class="background">
 		<div>
       <div class="container text-center">
-  			<div class="page-header"><h1>Compliquons les choses : et si Olivier D. s'appelait Bob ?</h1></div>
+  			<div class="page-header">
+					<h1>
+						Compliquons les choses : et si Olivier D. s'appelait Bob ?
+					</h1>
+				</div>
 				<table style="width:50%">
 				  <tr>
 				    <th>1</th>
@@ -128,18 +132,18 @@
 				</table>
 
 				<p>
-				<br>
-				1: Un des deux compagnons de mon sixième
-				<br>
-				2: Quatrième enfant de mon cinquième
-				<br>
-				3: Bob aurait aimé qu'elle se fasse une pédicure, mais là-haut elle privilégia sa tignasse
-				<br>
-				4: Belle-mère de mon troisième
-				<br>
-				5: Conjoint, frère ou rejeton de mon quatrième
-				<br>
-				6: Plus grand que mon troisième, ils sont aussi voisins
+					<br>
+					1: Un des deux compagnons de mon sixième
+					<br>
+					2: Quatrième enfant de mon cinquième
+					<br>
+					3: Bob aurait aimé qu'elle se fasse une pédicure, mais là-haut elle privilégia sa tignasse
+					<br>
+					4: Belle-mère de mon troisième
+					<br>
+					5: Conjoint, frère ou rejeton de mon quatrième
+					<br>
+					6: Plus grand que mon troisième, ils sont aussi voisins
 				</p>
   		</div>
 		</div>
