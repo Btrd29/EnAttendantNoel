@@ -6,7 +6,7 @@ Travail effectué :
  - Passage par requête POST (anciennement GET)
  - Customisation de la page de base (index + css)
  - Création de 24 énigmes
- 
+
 
 Credit :
  - Les différentes images utilisées peuvent être soumises à des droits d'auteur.
@@ -37,7 +37,7 @@ Liste des liens :
  - 18: https://dax-olotl.ovh/russie/
  - 19: https://dax-olotl.ovh/speedy/
  - 20: https://dax-olotl.ovh/fez/
- - 21: https://dax-olotl.ovh/queen/
+ - 21: https://dax-olotl.ovh/londres/
  - 22: https://dax-olotl.ovh/mer/
  - 23: https://dax-olotl.ovh/vache/
  - 24: https://dax-olotl.ovh/phenix/
