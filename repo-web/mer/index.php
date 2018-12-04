@@ -16,8 +16,14 @@
 	<body class="background">
 		<div>
       <div class="container text-center">
-  			<div class="page-header"><h1>Là-bas les horloges ne serviront pas, mieux vaut utiliser des drapeaux</h1></div>
-  			<p>3h00 9h45 10h10 14h45</p>
+  			<div class="page-header">
+					<h1>
+						Là-bas les horloges ne serviront pas, mieux vaut utiliser des drapeaux.
+					</h1>
+				</div>
+  			<p>
+					3h00 9h45 10h10 14h45
+				</p>
   		</div>
 		</div>
 	</body>

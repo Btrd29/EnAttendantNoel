@@ -16,13 +16,17 @@
 	<body class="background">
 		<div>
       <div class="container text-center">
-  			<div class="page-header"><h1>Le vent l'emportera</h1></div>
+  			<div class="page-header">
+					<h1>
+						Laissez vous guider par le vent.
+					</h1>
+				</div>
   			<p>
-				Paris Alger Tunis
-				<br>
-				Varsovie Bruxelles Monaco Belgrade Monaco Tunis Athènes
-				<br>
-				Kiev Varsovie Budapest Chisinau Sofia Sarajevo
+					Paris - Alger - Tunis
+					<br>
+					Varsovie - Bruxelles - Monaco - Belgrade - Monaco - Tunis - Athènes
+					<br>
+					Kiev - Varsovie - Budapest - Chisinau - Sofia - Sarajevo
 				</p>
   		</div>
 		</div>

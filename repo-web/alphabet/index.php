@@ -16,8 +16,14 @@
 	<body>
 		<div class="background">
       <div class="container text-center">
-  			<div class="page-header"><h1>Maintenant que tu connais ton alphabet, la prochaine fois chante le avec moi</h1></div>
-  			<p>22 15 20 18 5</p>
+  			<div class="page-header">
+					<h1>
+						Maintenant que tu connais ton alphabet, la prochaine fois chante le avec moi !
+					</h1>
+				</div>
+  			<p>
+					22 15 20 18 5
+				</p>
   		</div>
 		</div>
 	</body>

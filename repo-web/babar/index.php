@@ -2,7 +2,7 @@
 <html lang="en">
 	<head>
 		<meta charset="UTF-8" />
-		<title><?php echo ('Vigenère'); ?></title>
+		<title><?php echo ('Babar'); ?></title>
 
 		<link rel="shortcut icon" type="image/x-icon" href="../assets/favicon.ico" />
 		<link rel="icon" type="image/png" href="../assets/favicon.png" />
@@ -16,8 +16,14 @@
 	<body class="background">
 		<div>
       <div class="container text-center">
-  			<div class="page-header"><h1>Elle ferme la marche aux côtés du chien de Lilo</h1></div>
-  			<p>ESFXTHCI</p>
+  			<div class="page-header">
+					<h1>
+						Joyeux Nowoul !
+					</h1>
+				</div>
+  			<p>
+					...surtaxé du ? ? ? attention cependant...
+				</p>
   		</div>
 		</div>
 	</body>

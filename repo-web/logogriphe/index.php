@@ -2,7 +2,7 @@
 <html lang="en">
 	<head>
 		<meta charset="UTF-8" />
-		<title><?php echo ('Queen'); ?></title>
+		<title><?php echo ("Logogriphe"); ?></title>
 
 		<link rel="shortcut icon" type="image/x-icon" href="../assets/favicon.ico" />
 		<link rel="icon" type="image/png" href="../assets/favicon.png" />
@@ -16,15 +16,19 @@
 	<body class="background">
 		<div>
       <div class="container text-center">
-  			<div class="page-header"><h1>Sus à la reine !</h1></div>
+  			<div class="page-header">
+					<h1>
+						Point de cryptographie aujourd'hui, privilégions la poésie.
+					</h1>
+				</div>
   			<p>
-					KQ 7
-				<br>
-					TSMGO 9
-				<br>
-					WWRY 13
-				<br>
-					UP 2
+					Sur quatre pieds, souvent, je fais objection,
+					<br>
+					Otez m'en deux, et du chant, je deviens fragment.
+					<br>
+					Dans ma tête, toujours, j'incarne la passion,
+					<br>
+					Sans ma queue, j'évoque fertilité et printemps.
 				</p>
   		</div>
 		</div>

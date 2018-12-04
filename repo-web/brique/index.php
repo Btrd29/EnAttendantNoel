@@ -16,8 +16,14 @@
 	<body>
 		<div class="background">
       <div class="container text-center">
-  			<div class="page-header"><h1>Only 90's kids will understand</h1></div>
-  			<p>6 33 6 33 7 2 7777</p>
+  			<div class="page-header">
+					<h1>
+						Only 90's kids will understand.
+					</h1>
+				</div>
+  			<p>
+					6 33 6 33 7 2 7777
+				</p>
   		</div>
 		</div>
 	</body>

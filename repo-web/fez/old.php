@@ -21,6 +21,14 @@
 
 			line-height: 0.90;
 		}
+		@font-face {
+		    font-family: fezFont;
+		    src: url(../fonts/zuish.ttf);
+		}
+		.fez {
+			font-family: fezFont;
+			font-size: 750;
+		}
 		</style>
 
 	</head>

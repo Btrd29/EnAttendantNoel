@@ -16,7 +16,11 @@
 	<body class="background">
 		<div>
       <div class="container text-center">
-  			<div class="page-header"><h1>Bip bip boup</h1></div>
+  			<div class="page-header">
+					<h1>
+						Bip boup, bip bip boup !
+					</h1>
+				</div>
 				<audio controls>
 					<source src="telegraphe.wav" type="audio/wav">
 				</audio>

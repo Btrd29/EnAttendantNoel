@@ -16,8 +16,14 @@
 	<body class="background">
 		<div>
       <div class="container text-center">
-  			<div class="page-header"><h1>J'ai une touche là, nan ?</h1></div>
-  			<p>WIRVR</p>
+  			<div class="page-header">
+					<h1>
+						J'ai une touche là, nan ?
+					</h1>
+				</div>
+  			<p>
+					WIRVR
+				</p>
   		</div>
 		</div>
 	</body>

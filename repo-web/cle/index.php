@@ -2,7 +2,7 @@
 <html lang="en">
 	<head>
 		<meta charset="UTF-8" />
-		<title><?php echo ("L'hermitte"); ?></title>
+		<title><?php echo ('Clé'); ?></title>
 
 		<link rel="shortcut icon" type="image/x-icon" href="../assets/favicon.ico" />
 		<link rel="icon" type="image/png" href="../assets/favicon.png" />
@@ -16,8 +16,16 @@
 	<body class="background">
 		<div>
       <div class="container text-center">
-  			<div class="page-header"><h1>Pierre et Thérèse n'attendent plus que vous pour commencer</h1></div>
-  			<p></p>
+  			<div class="page-header">
+					<h1>
+						Aux côtés du chien bleu, elle ferme la marche,
+						<br>
+						Ici, elle vous guidera.
+					</h1>
+				</div>
+  			<p>
+					ESFXTHCI
+				</p>
   		</div>
 		</div>
 	</body>

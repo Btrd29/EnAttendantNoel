@@ -16,22 +16,28 @@
 	<body class="background">
 		<div>
       <div class="container text-center">
-  			<div class="page-header"><h1>Allez hop, on y va, c'est parti pour l'aventure !</h1></div>
-  			<p>Tout d'abord, bienvenue à tous et à toutes, j'espère que vous aimez réfléchir car pour ce mois de Décembre, je vous ai préparé tout plein d'énigmes en vrac
-				<br>
-				Restez calme toutefois, tout se passera bien car avec un peu de logique et quelques notes, les résoudre ne sera qu'un jeu simple et puéril
-				<br>
-				Où et comment participer me demandez vous ? Et bien rendez-vous chaque jour sur la nouvelle URL cachée pour résoudre une nouvelle énigme et récolter un nouvel indice
-				<br>
-				Mémorisez tout ce qui vous semble suspect, et une fois au bout de ce calendrier, contactez moi par MP avec votre ultime réponse, votre ultime bafouille. Et n'oubliez pas :
-				<br>
-				Peu importe la difficulté, n'abandonnez pas, faites appel à vos amis, votre famille, car au bout de ce calendrier vous attend un cadeau au top du top
-				<br>
-				Et oui, des jeux Steam (dans la limite des stocks disponibles bien sûr hein), rien que pour vous, si vous réussissez à percer les énigmes mises en place par mon esprit de mongolo
-				<br>
-				Normalement maintenant c'est l'endroit où je vous remercie tous de participer parce que ça fait trop plaisir mais j'suis pas trop doué avec ces histoires donc j'vais me contenter d'un JOYEUX NOEL
-				<br>
-				Tout plein de bisous à vous tous, bonne chance, bonne chasse, et puisse le sort vous être favorable</p>
+  			<div class="page-header">
+					<h1>
+						Allez hop, on y va, c'est parti pour l'aventure !
+					</h1>
+				</div>
+  			<p>
+					Tout d'abord, bienvenue à tous et à toutes, j'espère que vous aimez réfléchir car pour ce mois de décembre, je vous ai préparé tout plein d'énigmes en vrac
+					<br>
+					Restez calme toutefois, tout se passera bien car avec un peu de logique et quelques notes, les résoudre ne sera qu'un jeu simple et puéril
+					<br>
+					Où et comment participer me demandez vous ? Et bien rendez-vous chaque jour sur la nouvelle URL cachée pour résoudre une nouvelle énigme et récolter un nouvel indice
+					<br>
+					Mémorisez tout ce qui vous semble suspect, et une fois au bout de ce calendrier, contactez moi par MP avec votre ultime réponse, votre ultime bafouille. Et n'oubliez pas :
+					<br>
+					Peu importe la difficulté, n'abandonnez pas, faites appel à vos amis, votre famille, car au bout de ce calendrier vous attend un petit cadeau au top du top
+					<br>
+					Et oui, j'ai en stock une vingtaine de clés CDs à vous faire gagner (dans la limite des stocks disponibles bien sûr hein), si vous réussissez à percer les énigmes mises en place par mon esprit de mongolo
+					<br>
+					Normalement maintenant c'est l'endroit où je vous remercie tous de participer parce que ça fait trop plaisir mais j'suis pas trop doué avec ces histoires donc j'vais me contenter d'un JOYEUX NOEL
+					<br>
+					Tout plein de bisous à vous tous, bonne chance, bonne chasse, et puisse le sort vous être favorable
+				</p>
   		</div>
 		</div>
 	</body>

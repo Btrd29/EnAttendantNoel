@@ -24,13 +24,16 @@
     	margin-right:auto;
 		}
 		</style>
-
 	</head>
 
 	<body>
 		<div class="background">
       <div class="container text-center">
-  			<div class="page-header"><h1>Abracadabra</h1></div>
+  			<div class="page-header">
+					<h1>
+						Abracadabra !
+					</h1>
+				</div>
 				<table style="width:50%">
 				  <tr>
 				    <th></th>
@@ -98,18 +101,18 @@
 				</table>
 
 				<p>
-				<br>
-				1: Présent acidulé de l'ancien temps
-				<br>
-				2: Même sans ailes, ils peuvent voler
-				<br>
-				3: Messagers de dieu anglais
-				<br>
-				4: Poisson clown mal écrit
-				<br>
-				5: Crème glacée italienne
-				<br>
-				6: Serviette belge
+					<br>
+					1: Présent acidulé de l'ancien temps
+					<br>
+					2: Même sans ailes, ils peuvent voler
+					<br>
+					3: Messagers de dieu anglais
+					<br>
+					4: Poisson clown mal orthographié
+					<br>
+					5: Crème glacée italienne
+					<br>
+					6: Serviette belge
 				</p>
 
   		</div>
