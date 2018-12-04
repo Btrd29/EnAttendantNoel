@@ -247,7 +247,8 @@ abstract class Advent {
 		$result = '
 		<div class="container text-center">
 			<div class="page-header"><h1>Des énigmes en attendant Noël !</h1></div>
-			<p>Chaque jour une nouvelle <a class="hide-this-please tip" data-placement="top" title="Trouves les URLs !">énigme</a> vous est proposée.<br>Parviendrez vous à toutes les résoudre ?</p>
+			<p>Chaque jour, une nouvelle <a class="hide-this-please tip" data-placement="top" title="Elles t\'aideront à trouver l\'URL du jour">image</a>, derrière laquelle se cache une nouvelle <a class="hide-this-please tip" data-placement="bottom" title="Exemple d\'URL : dax-olotl.ovh/exemple/">énigme</a>.
+			<br>À vous de les trouver puis de les résoudre !</p>
 		</div>';
 
 		$result .= '<div class="container days">';
@@ -265,7 +266,6 @@ abstract class Advent {
 
 		$result .= '
 					</div>
-
 					<br>
 					<br>
 					<div class="container text-center">
@@ -274,7 +274,11 @@ abstract class Advent {
 								<p>
 									Pas assez de challenge pour vous ?
 									<br>
-									Allez donc faire un tour <a href="https://gate-remote-access.dax-olotl.ovh/">ici</a> !
+									Allez donc faire un tour ici : <a href="https://gate-remote-access.dax-olotl.ovh/">G.R.A</a> !
+									<br>
+									Il s\'agit d\'un ancien projet sans aucun rapport avec ce calendrier.
+									<br>
+									Il contient toute une histoire et des énigmes bien plus corsées qu\'ici.
 								</p>
 							</div>
 						</div>
