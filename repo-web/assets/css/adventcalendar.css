@@ -29,9 +29,24 @@ body, .tooltip {
 	font-weight: bold;
 	color:#333;
 }
-form {
+.calendar-form {
 	-webkit-appearance: none;
 	display: none;
+}
+
+.re > input {
+  background-color: #353535;
+  border: none;
+  border-radius: 3px;
+  color: #efeff7;
+	height: 50px;
+	width: 50px;
+  text-align: center;
+	text-decoration: none;
+  display: inline-block;
+  font-size: 25px;
+	font-weight: bolder;
+  cursor: pointer;
 }
 
 nav {
@@ -81,10 +96,10 @@ a.day-row:hover { -ms-transform:scale(1.1); -webkit-transform:scale(1.1); -o-tra
 	letter-spacing: -4px;
 	color: #fff;
 }
-.day-row.active.day-color-1 { background: #49C7FF; }
-.day-row.active.day-color-2 { background: #5FC462; }
-.day-row.active.day-color-3 { background: #EDD360; }
-.day-row.active.day-color-4 { background: #C48CE8; }
+.day-row.active.day-color-1 { background: #1f3110; } /* vert */
+.day-row.active.day-color-2 { background: #8c0e0e; } /* rouge */
+.day-row.active.day-color-3 { background: #7d9bc3; } /* bleu */
+.day-row.active.day-color-4 { background: #f7c026; } /* jaune */
 
 .day h1 {
 	margin: 0 auto 6px;

@@ -177,6 +177,7 @@ class Day {
 	public $title = NULL;
 	public $legend = NULL;
 	public $text = NULL;
+	public $colorOrder;
 
 	public function __default($day) {
 		$this->day = $day;
@@ -217,12 +218,14 @@ abstract class Advent {
 		return ($state == self::CURRENT_ADVENT && $day <= date('d')) || $state == self::AFTER_ADVENT;
 	}
 
-	static private function getDayColorClass($day, $active = FALSE) {
+	static private function getDayColorClass($colorOrder, $day, $active = FALSE) {
 		$result = '';
 		// is the day active ?
 		if ($active) { $result .= 'active '; }
 		// set a color for the background
-		$result .= 'day-color-'.($day%4 + 1);
+
+		$result .= 'day-color-'.($colorOrder[$day%4]);
+
 		return $result;
 	}
 
@@ -252,16 +255,21 @@ abstract class Advent {
 		</div>';
 
 		$result .= '<div class="container days">';
+
+		$colorOrderList = array("1", "2", "3", "4");
+		shuffle($colorOrderList);
+
 		foreach (self::getDays() as $d) {
+			$d->colorOrder = $colorOrderList;
 			if ($d->active) {
 				$result .= '<a href="#" onclick="document.getElementById(\'post' . ($d->day) .'\').submit()" title="Day '. ($d->day) .'"';
 			}
 			else { $result .= '<div'; }
-			$result .= ' class="day-row '. self::getDayColorClass($d->day, $d->active) .'"><span>'. ($d->day) .'</span>';
+			$result .= ' class="day-row '. self::getDayColorClass($d->colorOrder, $d->day, $d->active) .'"><span>'. ($d->day) .'</span>';
 			if ($d->active) { $result .= '</a>'; }
 			else { $result .= '</div>'; }
 
-			$result .= '<form id="post'. ($d->day) .'" action="./" method="post"> <input type="hidden" name="day" value="'. ($d->day) .'"/> </form>';
+			$result .= '<form class="calendar-form" id="post'. ($d->day) .'" action="./" method="post"> <input type="hidden" name="day" value="'. ($d->day) .'"/> </form>';
 		}
 
 		$result .= '
@@ -311,10 +319,12 @@ abstract class Advent {
 		$title = $d->title;
 		$legend = $d->legend;
 		$text = $d->text;
+		$d->colorOrder = array("1", "2", "3", "4");
+		shuffle($d->colorOrder);
 
 		// set the day number block
-		$result .= '<a href="#" onclick="document.getElementById(\'post' . ($day) .'\').submit()" class="day-row '. self::getDayColorClass($day, TRUE) .'"><span>'. $day .'</span></a>';
-		$result .= '<form id="post'. ($day) .'" action="./" method="post"> <input type="hidden" name="day" value="'. ($day) .'"/> </form>';
+		$result .= '<a href="#" onclick="document.getElementById(\'post' . ($day) .'\').submit()" class="day-row '. self::getDayColorClass($d->colorOrder, $day, TRUE) .'"><span>'. $day .'</span></a>';
+		$result .= '<form class="calendar-form" id="post'. ($day) .'" action="./" method="post"> <input type="hidden" name="day" value="'. ($day) .'"/> </form>';
 		// set the title
 		$result .= '<h1><span>';
 		if (!empty($title)) { $result .= $title; }
@@ -338,13 +348,13 @@ abstract class Advent {
 		$result .= '<ul class="pager"><li class="previous';
 		if (self::isActiveDay($day-1) && ($day-1)>=FIRST_DAY) {
 			$result .= '"><a href="#" onclick="document.getElementById(\'post' . ($day-1) .'\').submit()" title="Day '. ($day-1) .'">';
-			$result .= '<form id="post'. ($day-1) .'" action="./" method="post"> <input type="hidden" name="day" value="'. ($day-1) .'"/> </form>';
+			$result .= '<form class="calendar-form" id="post'. ($day-1) .'" action="./" method="post"> <input type="hidden" name="day" value="'. ($day-1) .'"/> </form>';
 		}
 		else { $result .= ' disabled"><a>'; }
 		$result .= '<i class="glyphicon glyphicon-hand-left"></i></a></li><li class="next';
 		if (self::isActiveDay($day+1) && ($day+1)<=LAST_DAY) {
 			$result .= '"><a href="#" onclick="document.getElementById(\'post' . ($day+1) .'\').submit()" title="Day '. ($day+1) .'">';
-			$result .= '<form id="post'. ($day+1) .'" action="./" method="post"> <input type="hidden" name="day" value="'. ($day+1) .'"/> </form>';
+			$result .= '<form class="calendar-form" id="post'. ($day+1) .'" action="./" method="post"> <input type="hidden" name="day" value="'. ($day+1) .'"/> </form>';
 		}
 		else { $result .= ' disabled"><a>'; }
 		$result .= '<i class="glyphicon glyphicon-hand-right"></i></a></li></ul>';
@@ -422,6 +432,99 @@ $authentificated = defined('PASSKEY') && isset($_SESSION['welcome']);
 		<link href="assets/css/adventcalendar.css" rel="stylesheet">
 		<link href="//fonts.googleapis.com/css?family=Lato:300,400,700" rel="stylesheet" type="text/css">
 
+		<script type="text/javascript">
+			var snow = {
+
+				wind : 0,
+				maxXrange : 100,
+				minXrange : 10,
+				maxSpeed : 2,
+				minSpeed : 1,
+				color : "#efeff7",
+				char : "*",
+				maxSize : 20,
+				minSize : 8,
+
+				flakes : [],
+				WIDTH : 0,
+				HEIGHT : 0,
+
+				init : function(nb){
+					var o = this,
+					frag = document.createDocumentFragment();
+					o.getSize();
+
+
+
+					for(var i = 0; i < nb; i++){
+						var flake = {
+							x : o.random(o.WIDTH),
+							y : - o.maxSize,
+							xrange : o.minXrange + o.random(o.maxXrange - o.minXrange),
+							yspeed : o.minSpeed + o.random(o.maxSpeed - o.minSpeed, 100),
+							life : 0,
+							size : o.minSize + o.random(o.maxSize - o.minSize),
+							html : document.createElement("span")
+						};
+
+						flake.html.style.position = "absolute";
+						flake.html.style.top = flake.y + "px";
+						flake.html.style.left = flake.x + "px";
+						flake.html.style.fontSize = flake.size + "px";
+						flake.html.style.color = o.color;
+						flake.html.appendChild(document.createTextNode(o.char));
+
+						frag.appendChild(flake.html);
+						o.flakes.push(flake);
+					}
+
+					document.body.appendChild(frag);
+					o.animate();
+				},
+
+				animate : function(){
+					var o = this;
+					for(var i = 0, c = o.flakes.length; i < c; i++){
+						var flake = o.flakes[i],
+						top = flake.y + flake.yspeed,
+						left = flake.x + Math.sin(flake.life) * flake.xrange + o.wind;
+						if(top < o.HEIGHT - flake.size - 10 && left < o.WIDTH - flake.size && left > 0){
+							flake.html.style.top = top + "px";
+							flake.html.style.left = left + "px";
+							flake.y = top;
+							flake.x += o.wind;
+							flake.life+= .01;
+						}
+						else {
+							flake.html.style.top = -o.maxSize + "px";
+							flake.x = o.random(o.WIDTH);
+							flake.y = -o.maxSize;
+							flake.html.style.left = flake.x + "px";
+							flake.life = 0;
+						}
+					}
+					setTimeout(function(){
+						o.animate();
+					},20);
+				},
+
+				random : function(range, num){
+					var num = num?num:1;
+					return Math.floor(Math.random() * (range + 1) * num) / num;
+				},
+
+				getSize : function(){
+					this.WIDTH = document.body.clientWidth || window.innerWidth;
+					this.HEIGHT = document.body.clientHeight || window.innerHeight;
+				}
+
+			};
+		</script>
+		<script type="text/javascript">
+			window.onload = function(){
+				snow.init(50);
+			};
+		</script>
 	</head>
 
 	<body>
