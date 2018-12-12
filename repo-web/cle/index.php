@@ -24,7 +24,7 @@
 					</h1>
 				</div>
   			<p>
-					ESFXTHCI
+					ESFX THCI
 				</p>
   		</div>
 		</div>

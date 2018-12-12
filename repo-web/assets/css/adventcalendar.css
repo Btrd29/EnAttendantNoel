@@ -20,7 +20,6 @@ body, .tooltip {
 	margin: 0;
 	padding: 20px 0;
 	background: url(../img/tree_bark.png) left top repeat fixed;
-	height: -webkit-fill-available;
 }
 
 .hide-this-please, .hide-this-please:hover {
@@ -55,6 +54,18 @@ nav {
 
 .alternate-background { background: url(../img/wave_grid.png) left top repeat fixed; }
 p, .text { font-size: 30px; line-height: 35px; }
+.nine-years-old-army-txt {font-size: 24px; line-height: 25px; font-weight: bold;}
+.nine-years-old-army {
+	text-align: center;
+	display: table;
+	height: 100%;
+	width: 100%;
+}
+.nine-years-old-army > span {
+	display: table-cell;
+	vertical-align: middle;
+}
+
 .text-center { text-align: center; }
 .error { margin: 60px auto; width: 70%; font-size: 20px; }
 .error h3 { font-size: 30px; }

@@ -18,11 +18,11 @@
       <div class="container text-center">
   			<div class="page-header">
 					<h1>
-						Elle en possède deux paires et, à reculons, il t'aidera à casser ce message.
+						Chez elle, il se divise en quatre mais ici, à reculons, il t'aidera à casser ce message.
 					</h1>
 				</div>
   			<p>
-					8 2 28 5 6 83 93 23 62 28
+					8-2-28-5-6-83-93-23 62-28
 				</p>
   		</div>
 		</div>

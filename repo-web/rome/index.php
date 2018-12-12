@@ -22,7 +22,7 @@
 					</h1>
 				</div>
   			<p>
-					TOXO
+					TO XO
 				</p>
   		</div>
 		</div>

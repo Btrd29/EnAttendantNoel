@@ -46,7 +46,7 @@
 				  </tr>
 				  <tr>
 				  	<th>1</th>
-				    <td style="background-color: red"></td>
+				    <td style="background-color: red" class="1"></td>
 				    <td></td>
 				    <td></td>
 				    <td></td>
@@ -57,7 +57,7 @@
 				  	<th>2</th>
 				    <td></td>
 				    <td></td>
-				    <td style="background-color: red"></td>
+				    <td style="background-color: red" class="2"></td>
 				    <td></td>
 				    <td></td>
 				    <td></td>
@@ -76,7 +76,7 @@
 				    <td></td>
 				    <td></td>
 				    <td></td>
-				    <td style="background-color: red"></td>
+				    <td style="background-color: red" class="3"></td>
 				    <td></td>
 				    <td></td>
 				  </tr>
@@ -85,7 +85,7 @@
 				    <td></td>
 				    <td></td>
 				    <td></td>
-				    <td style="background-color: red"></td>
+				    <td style="background-color: red" class="4"></td>
 				    <td></td>
 				    <td></td>
 				  </tr>
@@ -102,9 +102,9 @@
 
 				<p>
 					<br>
-					1: Présent acidulé de l'ancien temps
+					1: Présent de l'ancien temps
 					<br>
-					2: Même sans ailes, ils peuvent voler
+					2: Même sans aile, ils peuvent voler
 					<br>
 					3: Messagers de dieu anglais
 					<br>

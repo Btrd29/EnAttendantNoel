@@ -22,13 +22,9 @@
 					</h1>
 				</div>
 				<p>
-					KQ 7
+					KQ 7 - TSMGO 9
 					<br>
-					TSMGO 9
-					<br>
-					WWRY 13
-					<br>
-					UP 2
+					WWRY 13 - UP 2
 				</p>
 			</div>
 		</div>
