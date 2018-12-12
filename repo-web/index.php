@@ -286,7 +286,7 @@ abstract class Advent {
 									<br>
 									Il s\'agit d\'un ancien projet sans aucun rapport avec ce calendrier.
 									<br>
-									Il contient toute une histoire et des énigmes bien plus corsées qu\'ici.
+									Il contient toute une histoire et des énigmes bien plus corsées.
 								</p>
 							</div>
 						</div>
@@ -525,17 +525,21 @@ $authentificated = defined('PASSKEY') && isset($_SESSION['welcome']);
 				snow.init(50);
 			};
 		</script>
+		<script src="https://apis.google.com/js/platform.js"></script>
 	</head>
 
 	<body>
 
 		<nav class="navbar navbar-default navbar-static-top" role="navigation">
 		<div class="container">
-		<a class="navbar-brand tip" href="./" title="Menu principal" data-placement="right"><i class="glyphicon glyphicon-home"></i> <?php echo TITLE; ?></a>
-		</div>
+			<a class="navbar-brand tip" href="./" title="Menu principal" data-placement="right"><i class="glyphicon glyphicon-home"></i> <?php echo TITLE; ?></a>
 
-		<div class="collapse navbar-collapse" id="navbar-collapse">
-
+			<div class="navbar-right">
+				<p class="nine-years-old-army-txt">Are you doing your part ?</p>
+				<div class="nine-years-old-army">
+					<span>SUBSCRIBE TO PEWDIEPIE !</span><span class="g-ytsubscribe" data-channel="PewDiePie" data-layout="default" data-theme="dark" data-count="hidden"></span>
+				</div>
+			</div>
 		</div>
 		</nav>
 
