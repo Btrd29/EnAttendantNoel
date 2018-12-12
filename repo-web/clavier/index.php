@@ -22,7 +22,7 @@
 					</h1>
 				</div>
   			<p>
-					WIRVR
+					WIR VR
 				</p>
   		</div>
 		</div>
