@@ -37,9 +37,11 @@
 							<br>
 							J'ai mis tout mon coeur dans ce projet donc j'espère sincèrement que ça vous a plu.
 							<br>
-							Si vous connaissez la réponse ultime, venez me la donner sur <a href="https://twitter.com/_D4x_">Twitter</a> ou <a href="https://discordapp.com/invite/dJQ2cUh">Discord</a>.
+							Si vous connaissez la réponse ultime, venez me la donner <a href="https://goo.gl/forms/cFJgATyiWiS9wXM82" target="_blank"><strong>ici</strong></a> !
 							<br>
-							Et dans tous les cas, je vous souhaites à tous un <strong>Joyeux Noël</strong> et de joyeuses fêtes de fin d'année. Et merci encore d'avoir participé !
+							Et si vous souhaitez me laisser un petit mot, vous pouvez le faire sur <a href="https://twitter.com/_D4x_" target="_blank">Twitter</a> ou <a href="https://discordapp.com/users/224604597606547456" target="_blank">Discord</a>.
+							<br>
+							Dans tous les cas, je vous souhaites à tous un <strong>Joyeux Noël</strong> et de joyeuses fêtes de fin d'année. Et merci encore d'avoir participé !
 						</p>
 					</div>
 				</div>
