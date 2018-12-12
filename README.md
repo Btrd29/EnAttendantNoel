@@ -5,6 +5,8 @@ Dispo sur : https://dax-olotl.ovh/
 Travail effectué :
  - Passage par requête POST (anciennement GET)
  - Customisation de la page de base (index + css)
+ - Changement des couleurs journalières à chaque F5 + pas deux couleurs identiques successives
+ - Ajout bouton Pewds #9yrsold
  - Création de 24 énigmes
 
 
