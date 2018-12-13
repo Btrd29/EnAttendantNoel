@@ -18,15 +18,15 @@
       <div class="container text-center">
   			<div class="page-header">
 					<h1>
-						Laissez vous guider par le vent.
+						Le vent l'emportera !
 					</h1>
 				</div>
   			<p>
-					Paris - Alger - Tunis
+					Vancouver - Olympia - Portland - Medford - Sacramento - Bishop - St. George
 					<br>
-					Varsovie - Bruxelles - Monaco - Belgrade - Monaco - Tunis - Athènes
+					Port Elizabeth - Le Cap - Menongue - Lusaka - Capelongo - Windhoek - Serowe
 					<br>
-					Kiev - Varsovie - Budapest - Chisinau - Sofia - Sarajevo
+					Kiev - Varsovie - Katowice - Budapest - Chisinau - Constanta - Sofia - Sarajevo
 				</p>
   		</div>
 		</div>
